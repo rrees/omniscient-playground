@@ -1,0 +1,1 @@
+browserify scripts/*.js > public/js/bundle.js
